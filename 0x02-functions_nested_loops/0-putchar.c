@@ -1,7 +1,7 @@
 #include "sikiru"
 
 /**
- * main - Prints "Sikiru" followed by a new line.
+ *main - Prints "Sikiru" followed by a new line.
  *
  * Return: Always 0.
  */
