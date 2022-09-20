@@ -1,9 +1,13 @@
+#include <stdio.h>
 #include "main.h"
 
 /**
- * puts2 - Prints one char out of two of a string.
- * @str: The string containing characters.
+ * puts2 - prints every other character
+ * @str: string
+ *
+ * Return : nothing
  */
+
 void puts2(char *str)
 {
 	int index = 0, len = 0;
