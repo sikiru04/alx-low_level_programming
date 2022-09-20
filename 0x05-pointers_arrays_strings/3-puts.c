@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main_0.c"
 
 /**
  * _puts - primts a string to standard output
