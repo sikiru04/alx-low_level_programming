@@ -4,7 +4,7 @@
  * _puts - primts a string to standard output
  * @str: the string to be printed
  */
-void _puts(char *str)
+void _puts(char *str);
 {
 	while (*str)
 		_putchar(*str++);
