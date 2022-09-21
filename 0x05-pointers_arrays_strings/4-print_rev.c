@@ -5,6 +5,7 @@
  * @s: string to be printed
  */
 void print_rev(char *s)
+
 {  
 	int i, j, len;
 
@@ -14,7 +15,6 @@ void print_rev(char *s)
 	{
 		i++;
 	}
-	
 	len = i;
 
 	for (j = len - 1; j >= 0; j--)
