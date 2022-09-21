@@ -5,7 +5,7 @@
  * @s: string to be printed
  */
 void print_rev(char *s)
-{
+{  
 	int i, j, len;
 
 	i = 0;
@@ -24,3 +24,4 @@ void print_rev(char *s)
 
 	_putchar('\n');
 }
+
